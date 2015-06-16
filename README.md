@@ -7,6 +7,7 @@ Official Device Support threads:
 [Find 7 Oppo Find 7](http://forum.xda-developers.com/find-7/find7-orig-development/rom-team-exodus-find7-t3135816)
 [jfltespr Samsung S4 Sprint](http://forum.xda-developers.com/galaxy-s4-sprint/orig-development/rom-team-exodus-jfltespr-t3135862)
 [jfltevzw Samsung S4 Verizon](http://forum.xda-developers.com/galaxy-s4-verizon/orig-development/rom-team-exodus-jfltevzw-t3135866)
+[LG G3 vs985,d850,d851,d852,d855](http://forum.xda-developers.com/lg-g3/orig-development/rom-team-exodus-t3133568)
 [klte Samsung S5](http://forum.xda-developers.com/galaxy-s5/orig-development/rom-team-exodus-klte-t3135876)
 [M7 HTC one](http://forum.xda-developers.com/htc-one/orig-development/rom-team-exodus-m7-t3135826)
 [M8 HTC one](http://forum.xda-developers.com/htc-one-m8/orig-development/rom-team-exodus-m8-t3135832)
@@ -17,4 +18,3 @@ Official Device Support threads:
 [v500 LG G pad 8.3](http://forum.xda-developers.com/lg-g-pad-83/general/rom-team-exodus-v500-t3135844)
 [xt907 Droid RAZR M](http://forum.xda-developers.com/droid-razr-m/orig-development/rom-team-exodus-xt907-t3135848)
 [xt926 Droid RAZR HD](http://forum.xda-developers.com/droid-razr-hd/general/rom-team-exodus-razr-hd-t3135852)
-
