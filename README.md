@@ -18,7 +18,7 @@ Official Device Support threads:
 [v500 LG G pad 8.3](http://forum.xda-developers.com/lg-g-pad-83/general/rom-team-exodus-v500-t3135844)
 [xt907 Droid RAZR M](http://forum.xda-developers.com/droid-razr-m/orig-development/rom-team-exodus-xt907-t3135848)
 [xt926 Droid RAZR HD](http://forum.xda-developers.com/droid-razr-hd/general/rom-team-exodus-razr-hd-t3135852)
-
+[ville HTC One S](http://forum.xda-developers.com/htc-one-s/development/rom-team-exodus-ville-t3132637)
 
 Developer support contacts:
 activethrasher00@gmail.com - primedirective (dave kessler)
