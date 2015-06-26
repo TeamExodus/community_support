@@ -22,3 +22,5 @@ Official Device Support threads:
 
 Developer support contacts:
 activethrasher00@gmail.com - primedirective (dave kessler)
+Thread Mantainer support contacts:
+phoenixita94@gmail.com	- phoenixita (Valerio Ventura)
