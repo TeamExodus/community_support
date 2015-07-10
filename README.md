@@ -5,6 +5,8 @@ Community support for a centralized OP to open threads with.  Just copy and past
 Official Device Support threads:
 [bacon Oneplus One](http://forum.xda-developers.com/oneplus-one/orig-development/official-vaniraosp-t2890749)
 [Find 7 Oppo Find 7](http://forum.xda-developers.com/find-7/find7-orig-development/rom-team-exodus-find7-t3135816)
+[Find 7 Oppo Find 7-Italian](http://www.oppoforums.com/threads/rom-find7-7a-exodus-android-5-1-lollipop-basata-su-cm-12-1.29791/#post-397069)
+[Find 7 Oppo Find 7-OppoForum](http://www.oppoforums.com/threads/rom-cm-12-1-find7a-find7-exodus-5-1.29790/#post-397035)
 [jfltespr Samsung S4 Sprint](http://forum.xda-developers.com/galaxy-s4-sprint/orig-development/rom-team-exodus-jfltespr-t3135862)
 [jfltevzw Samsung S4 Verizon](http://forum.xda-developers.com/galaxy-s4-verizon/orig-development/rom-team-exodus-jfltevzw-t3135866)
 [LG G3 vs985,d850,d851,d852,d855](http://forum.xda-developers.com/lg-g3/orig-development/rom-team-exodus-t3133568)
