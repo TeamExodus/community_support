@@ -9,6 +9,7 @@ Official Device Support threads:
 [Find 7 Oppo Find 7-OppoForum](http://www.oppoforums.com/threads/rom-cm-12-1-find7a-find7-exodus-5-1.29790/#post-397035)
 [jfltespr Samsung S4 Sprint](http://forum.xda-developers.com/galaxy-s4-sprint/orig-development/rom-team-exodus-jfltespr-t3135862)
 [jfltevzw Samsung S4 Verizon](http://forum.xda-developers.com/galaxy-s4-verizon/orig-development/rom-team-exodus-jfltevzw-t3135866)
+[LG G2 d800, d802, vs980](http://forum.xda-developers.com/lg-g2/orig-development/rom-team-exodus-t3189670)
 [LG G3 vs985,d850,d851,d852,d855](http://forum.xda-developers.com/lg-g3/orig-development/rom-team-exodus-t3133568)
 [klte Samsung S5](http://forum.xda-developers.com/galaxy-s5/orig-development/rom-team-exodus-klte-t3135876)
 [M7 HTC one](http://forum.xda-developers.com/htc-one/orig-development/rom-team-exodus-m7-t3135826)
