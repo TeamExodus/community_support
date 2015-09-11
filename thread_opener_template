@@ -1,7 +1,7 @@
 [CENTER][IMG]https://raw.githubusercontent.com/TeamExodus/community_support/EXODUS-5.1/Exodus-Header.png[/IMG]
 [IMG]https://raw.githubusercontent.com/TeamExodus/community_support/EXODUS-5.1/Exodus-Screenshot1.png[/IMG][IMG]https://raw.githubusercontent.com/TeamExodus/community_support/EXODUS-5.1/Exodus-Screenshot2.png[/IMG]
 [IMG]https://raw.githubusercontent.com/TeamExodus/community_support/EXODUS-5.1/Exodus-About.png[/IMG]
-Team Exodus and our ROM are an open-source project coded by professional level developers with additional support from the community, focusing on improved versions of common features and improvements found in the open-source community while bringing new improvements and original coding with the highest standards.
+Team Exodus brings you EXODUS Rom, coded by professional level developers with additional support from the community, focusing on improved versions of common features and improvements found in the open-source community while bringing new, original improvements and coding with the highest standards.
 
 [IMG]https://raw.githubusercontent.com/TeamExodus/community_support/EXODUS-5.1/Exodus-Installation.png[/IMG]
 [LIST]
@@ -14,15 +14,13 @@ Team Exodus and our ROM are an open-source project coded by professional level d
 [*]Reboot to System
 [*]Setup and Reboot System
 [/LIST]
-These directions are not necessary after the first install if you use the Exodus Updater, included in the ROM.  It can notify you of updates, download, and install them for you automatically.
+These directions are not necessary after the first install if you use the Exodus Updater.  It can notify you of updates, download, and install them for you automatically.
 
 **This is automated if coming from a previous Exodus build (Dirty Flashing).
 
 [IMG]https://raw.githubusercontent.com/TeamExodus/community_support/EXODUS-5.1/Exodus-Sources.png[/IMG]
 EXODUS - official: [URL="http://www.exodus-developers.net/exodus-5.1/"]http://www.exodus-developers.net/exodus-5.1/[/URL]
 GApps: Any 5.1.x GApps of your choice
-
-Rom source: [URL="https://github.com/TeamExodus"]https://github.com/TeamExodus[/URL]
 Gerrit: [URL="http://exodus-developers.net:8000"]http://exodus-developers.net:8000[/URL]
 
 [IMG]https://raw.githubusercontent.com/TeamExodus/community_support/EXODUS-5.1/Exodus-Community.png[/IMG]
@@ -33,11 +31,14 @@ Website:
 [URL="http://www.exodus-developers.net/"]http://www.exodus-developers.net/[/URL]
 
 Crowdin project:
-[URL="https://crowdin.com/project/exodus-rom"]Help us with translating to support your native language![/URL]
+[URL="https://crowdin.com/project/exodus-android"]Help us with translating to support your native language![/URL]
 
 [IMG]https://raw.githubusercontent.com/TeamExodus/community_support/EXODUS-5.1/Exodus-Credits.png[/IMG]
 Thank you to all the members, contributors, and maintainers on the Exodus Team. Please 
 see our source for an unabridged list of contributions, authorship, and cherry-picks.
+
+Be sure to check out Dave Kessler's [B]Exodus Updater[/B] application in the Play Store:
+[URL="https://play.google.com/store/apps/details?id=com.exodus.exodus_updater"]https://play.google.com/store/apps/details?id=com.exodus.exodus_updater[/URL]
 
 [IMG]https://raw.githubusercontent.com/TeamExodus/community_support/EXODUS-5.1/Eoxdus-Donations.png[/IMG]
 If you would like to thank us for our hard work or help support server costs you can do so here:

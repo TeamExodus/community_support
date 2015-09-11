@@ -2,6 +2,8 @@
 
 Community support for a centralized OP to open threads with.  Just copy and paste!
 
+Thread Maintainers: You are responsible for posting the kernel source for your device when you create the thread.
+
 Official Device Support threads:
 [bacon Oneplus One](http://forum.xda-developers.com/oneplus-one/orig-development/official-vaniraosp-t2890749)
 [Find 7 Oppo Find 7](http://forum.xda-developers.com/find-7/find7-orig-development/rom-team-exodus-find7-t3135816)
